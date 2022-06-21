@@ -4,7 +4,7 @@ There is limit on requests i.e. 10,000/day.
 The limit refreshes itself after a day.
 
 ## Learning :  😀
-### ReactJs, Axios , APIs, CRUD operatioons, googleAuth login.
+### ReactJs, Axios , APIs, CRUD operations, googleAuth login.
 
 I have removed the API key due to security purpose. 
 
