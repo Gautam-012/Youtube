@@ -1,0 +1,9 @@
+.video{
+  display: flex !important;
+  align-items: center !important;
+  cursor: pointer;
+}
+
+.video img{
+  width: 250px;
+}
